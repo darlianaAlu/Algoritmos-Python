@@ -1,4 +1,4 @@
-            <h1>Estudos em Python</h1>
+                        Estudos em Python
 
 Apresentando alguns dos algorimos mais comuns dos meus estudos em Python.
 
